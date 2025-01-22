@@ -62,7 +62,7 @@ const Hero2 = () => {
                 .map((_, starIdx) => (
                   <Image
                     key={starIdx}
-                    src="/star 1.png"
+                    src="/star1.png"
                     width={16}
                     height={16}
                     alt="Star"
@@ -158,7 +158,7 @@ const Hero2 = () => {
                   .map((_, starIdx) => (
                     <Image
                       key={starIdx}
-                      src="/star 1.png"
+                      src="/star1.png"
                       width={16}
                       height={16}
                       alt="Star"
