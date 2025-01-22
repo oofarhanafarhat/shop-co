@@ -120,7 +120,7 @@ const Product = () => {
           <button className="pb-2 text-gray-600 shadow-lg">FAQs</button>
         </div>
         <div className="mt-4">
-          <p className="pl-5 text-2xl text-[#000000]>All Reviews (451)</p>
+          <p className="pl-5 text-2xl text-[#000000]">All Reviews (451)</p>
         </div>
          <CustomerReviews/>
       </div>
