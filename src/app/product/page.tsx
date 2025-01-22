@@ -120,7 +120,7 @@ const Product = () => {
           <button className="pb-2 text-gray-600 shadow-lg">FAQs</button>
         </div>
         <div className="mt-4">
-          <p>All Reviews (451)</p>
+          <p className="pl-5 text-2xl text-[#000000]>All Reviews (451)</p>
         </div>
          <CustomerReviews/>
       </div>
@@ -161,7 +161,7 @@ const Product = () => {
                       .map((_, starIdx) => (
                         <Image
                           key={starIdx}
-                          src="/star 1.png"
+                          src="/star.png"
                           width={16}
                           height={16}
                           alt="Star"
